@@ -1,0 +1,11 @@
+Model Information:
+* title:	Canon AT-1 Retro Camera
+* source:	https://sketchfab.com/3d-models/canon-at-1-retro-camera-9de66868d0f240e985da00c9480bfc82
+* author:	AleixoAlonso (https://sketchfab.com/AleixoAlonso)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Canon AT-1 Retro Camera" (https://sketchfab.com/3d-models/canon-at-1-retro-camera-9de66868d0f240e985da00c9480bfc82) by AleixoAlonso (https://sketchfab.com/AleixoAlonso) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

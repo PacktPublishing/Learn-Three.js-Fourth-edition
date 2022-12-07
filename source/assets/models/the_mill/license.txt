@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Mill
+* source:	https://sketchfab.com/3d-models/the-mill-485266e0d43e46a7bc7850d3d957571a
+* author:	cotman sam (https://sketchfab.com/cotman_sam)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Mill" (https://sketchfab.com/3d-models/the-mill-485266e0d43e46a7bc7850d3d957571a) by cotman sam (https://sketchfab.com/cotman_sam) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

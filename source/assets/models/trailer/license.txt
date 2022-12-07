@@ -1,0 +1,11 @@
+Model Information:
+* title:	Trailer
+* source:	https://sketchfab.com/3d-models/trailer-040ad3bbf0c54098b90a87ac517d3901
+* author:	Alena Shek (https://sketchfab.com/ShekAlena)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Trailer" (https://sketchfab.com/3d-models/trailer-040ad3bbf0c54098b90a87ac517d3901) by Alena Shek (https://sketchfab.com/ShekAlena) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

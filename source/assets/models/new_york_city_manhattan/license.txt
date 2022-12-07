@@ -1,0 +1,11 @@
+Model Information:
+* title:	New York City. Manhattan
+* source:	https://sketchfab.com/3d-models/new-york-city-manhattan-372bc495b3a941308f4a3198bc45e17b
+* author:	truekit (https://sketchfab.com/truekit)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "New York City. Manhattan" (https://sketchfab.com/3d-models/new-york-city-manhattan-372bc495b3a941308f4a3198bc45e17b) by truekit (https://sketchfab.com/truekit) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

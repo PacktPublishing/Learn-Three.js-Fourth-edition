@@ -1,0 +1,1 @@
+From: https://www.cgtrader.com/free-3d-models/scanned/various/rubber-duck-1df0d725-8214-47bb-8179-a22b9f96f884

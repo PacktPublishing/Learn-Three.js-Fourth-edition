@@ -1,0 +1,11 @@
+Model Information:
+* title:	Flying Island
+* source:	https://sketchfab.com/3d-models/flying-island-125bf48246a64f61895b13449ed6445d
+* author:	guten_morgen (https://sketchfab.com/guten_morgen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Flying Island" (https://sketchfab.com/3d-models/flying-island-125bf48246a64f61895b13449ed6445d) by guten_morgen (https://sketchfab.com/guten_morgen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
