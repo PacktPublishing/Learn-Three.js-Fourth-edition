@@ -124,7 +124,6 @@ composer.addPass(effectSepia)
 composer.addPass(clearMask)
 composer.addPass(effectCopy)
 
-render()
 const render = () => {
   earthAndLight.earth.rotation.y += 0.001
   earthAndLight.pivot.rotation.y += -0.0003
@@ -136,3 +135,5 @@ const render = () => {
   renderer.clear()
   composer.render()
 }
+
+render()
