@@ -1,0 +1,11 @@
+Model Information:
+* title:	Truffle Man
+* source:	https://sketchfab.com/3d-models/truffle-man-e41c6781e4854a1fbe5cdf24a0029aab
+* author:	dotflare (https://sketchfab.com/Dotflare)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Truffle Man" (https://sketchfab.com/3d-models/truffle-man-e41c6781e4854a1fbe5cdf24a0029aab) by dotflare (https://sketchfab.com/Dotflare) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sea House
+* source:	https://sketchfab.com/3d-models/sea-house-bc4782005e9646fb9e6e18df61bfd28d
+* author:	Alena Shek (https://sketchfab.com/ShekAlena)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sea House" (https://sketchfab.com/3d-models/sea-house-bc4782005e9646fb9e6e18df61bfd28d) by Alena Shek (https://sketchfab.com/ShekAlena) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
