@@ -57,3 +57,8 @@ With the following software and hardware list you can run all code files present
 
 ## Get to Know the Author
 **Jos Dirksen** has worked as a software developer and architect for almost two decades. He has a lot of experience in many technologies, ranging from backend technologies, such as Java and Scala, to frontend development using HTML5, CSS, JavaScript, and Typescript. Besides working with these technologies, Jos regularly speaks at conferences and likes to write about new and interesting technologies on his blog. He also likes to experiment with new technologies and see how they can best be used to create beautiful data visualizations.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803233871">https://packt.link/free-ebook/9781803233871 </a> </p>
