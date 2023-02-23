@@ -3,15 +3,13 @@ import { initScene } from '../../bootstrap/bootstrap'
 import { intializeRendererControls } from '../../controls/renderer-control'
 
 import GUI from 'lil-gui'
-import { initializePerspectiveCameraControls } from '../../controls/camera-controls'
-import * as SceneUtils from 'three/examples/jsm/utils/SceneUtils'
 
-import fs_simple from './glsl/fs-simple.glsl'
-import vs_simple from './glsl/vs-simple.glsl'
-import fs_night_sky from './glsl/fs-night-sky.glsl'
+import fs_simple from './glsl/fs-simple-basic.glsl'
+import vs_simple from './glsl/vs-simple-basic.glsl'
+import fs_night_sky from './glsl/fs-night-sky-basic.glsl'
 import vs_noop from './glsl/vs-noop.glsl'
-import fs_color_shift from './glsl/fs-color-shift.glsl'
-import vs_ripple from './glsl/vs-simple-ripple.glsl'
+import fs_color_shift from './glsl/fs-color-shift-basic.glsl'
+import vs_ripple from './glsl/vs-simple-ripple-basic.glsl'
 
 import { getObjectsKeys } from '../../util'
 
@@ -19,13 +17,6 @@ const props = {
   backgroundColor: 0xffffff,
   fogColor: 0xffffff
 }
-// TODO: Make this one where we just define the shader materials
-//       and allow users to play around with them, mention that it
-//       it hard to reuse existing materials, and extend those.
-//       Add another example where we introduce customShaderMaterial
-//       https://github.com/FarazzShaikh/THREE-CustomShaderMaterial,
-//       which does allow that, and use the very cool water thingy,
-
 const gui = new GUI()
 
 const getVertexShaderPlane = () => {

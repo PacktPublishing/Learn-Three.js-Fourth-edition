@@ -11,5 +11,4 @@ void main(){
   transformed.z+=sin(angle)*amp;
   
   gl_Position=projectionMatrix*modelViewMatrix*vec4(transformed,1.);
-  csm_Position=transformed;
 }
