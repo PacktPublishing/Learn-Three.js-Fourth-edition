@@ -4,12 +4,12 @@ varying vec2 vUv;
 void main(){
   vUv=uv;
   
-  vec3 transformed=vec3(position);
+  vec3 transformedRipple=vec3(position);
   float freq=3.;
   float amp=.2;
   float angle=(time+position.y)*freq;
-  transformed.z+=sin(angle)*amp;
+  transformedRipple.z+=sin(angle)*amp;
   
-  gl_Position=projectionMatrix*modelViewMatrix*vec4(transformed,1.);
-  csm_Position=transformed;
+  gl_Position=projectionMatrix*modelViewMatrix*vec4(transformedRipple,1.);
+  csm_Position=transformedRipple;
 }
