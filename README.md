@@ -65,5 +65,7 @@ With the following software and hardware list you can run all code files present
 
 ## Errata
 
+- On page 11: Before running the install commands, make sure to change to the `source` directory. 
+
 - On page 133: at the bottom of the page, the book mentions `vertextShader`, this should be `vertexShader`
 
