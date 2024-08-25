@@ -1,7 +1,7 @@
 import * as THREE from 'three'
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js'
 import { initScene } from '../../bootstrap/bootstrap.js'
-import { LightProbeGenerator } from 'three/examples/jsm/lights//LightProbeGenerator'
+import { LightProbeGenerator } from 'three/examples/jsm/lights/LightProbeGenerator'
 import { stats } from '../../util/stats'
 import { visitChildren } from '../../util/modelUtil.js'
 
