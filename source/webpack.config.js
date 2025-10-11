@@ -119,16 +119,18 @@ const getDirectoryEntries = async () => {
       withFileTypes: true
     })
     const candidates = entries.filter((entry) => entry.name.endsWith('.js'))
-
     for (const candidate of candidates) {
-      const name = path.parse(candidate.name).name
+      const baseName = path.parse(candidate.name).name
+      // make chunk/entry names unique per chapter to avoid collisions when
+      // multiple chapters have files with the same basename (e.g. geometries.js)
+      const chunkName = `${chapter}-${baseName}`
       const plugin = new HtmlWebpackPlugin({
-        filename: chapter + '/' + name + '.html',
-        chunks: [name],
+        filename: chapter + '/' + baseName + '.html',
+        chunks: [chunkName],
         template: 'template.html'
       })
 
-      generatedEntries[name] = {
+      generatedEntries[chunkName] = {
         import: CHAPTER_PREFIX + chapter + '/' + candidate.name
       }
 
